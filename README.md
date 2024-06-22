@@ -4,7 +4,7 @@ Este é o meu portfolio inspirado no estilo visual dos jogos do Zelda em 16 bits
 
 ## Acesso ao Portfolio
 
-Para acessar o portfolio, [clique aqui](https://github.com/concs-niemeyer/portfolioGameRPG_v0.1).
+Para acessar o portfolio, [clique aqui](https://concs-niemeyer.github.io/portfolioGameRPG_v0.1/).
 
 ## Descrição
 
