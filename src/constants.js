@@ -1,30 +1,27 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  aboutChart: `
-				Olá, eu sou o <strong>Concs</strong>...<br>
-				Este é o meu portfólio, bem-vindo a minha página!
-        	`,
+  aboutChart: `<ul>Olá, eu sou o <strong>Concs</strong>...<br>
+				Este é o meu portfólio, bem-vindo a minha página!>
+				</ul>`,
 
   contactChart: `
-				<strong>Você gostaria de entrar em contato comigo?</strong><br><br>
-				Estas são as minhas redes sociais:<br>
-				<a href="https://github.com/concs-niemeyer" target="_blank">Github</a> e <a href="https://www.linkedin.com/in/conrado-niemeyer-74b0926a/" target="_blank">LinkedIn</a>.
-    		    `,
+				<ul><strong>Gostaria de entrar em contato?</strong><br><br>
+				<li><a href="https://github.com/concs-niemeyer" target="_blank">Github</a></li><br>
+				<li><a href="https://www.linkedin.com/in/conrado-niemeyer-74b0926a/" target="_blank">LinkedIn</a></li>
+				</ul>
+				`,
 
-  hardSkillsChart: `
-					<strong>Hard-Skills:</strong>
-					<ul>
+  hardSkillsChart: `<ul><strong>Hard-Skills:</strong>
 						<li><strong>★★</strong> API Rest, C#, Docker</li>
 						<li><strong>★★★</strong> CSS, Git, HTML, JavaScript, Linux, MS Office, PostgreSQL, Python, Swagger, VS Code</li>
 						<li><strong>★★★★</strong> Estatística, Inglês</li>
-						<li><strong>Entusiasta:</strong> Machine Learning (Redes Neurais), Blockchain</li>
+						<li><strong>Entusiasta:</strong>Machine Learning (Redes Neurais), Blockchain</li>
 					</ul>
 					`,
 
-  softSkillsChart: `
-					<strong>Soft-Skills:</strong>
-					<ul>
+  softSkillsChart: `	
+					<ul><strong>Soft-Skills:</strong>
 						<li>Pensamento crítico e criatividade</li>
 						<li>Professor de Física e Matemática para os alunos do ensino fundamental, ensino médio, curso pré-vestibular e curso técnico</li>
 						<li>E me capacitando como desenvolvedor de software</li>
